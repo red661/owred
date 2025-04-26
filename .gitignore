@@ -1,0 +1,10 @@
+﻿build
+*.db
+~$*.xlsx
+~$*.docx
+.env
+*.db-shm
+*.db-wal
+db_backup.log
+backup
+web/
